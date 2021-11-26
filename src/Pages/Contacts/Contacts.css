@@ -1,0 +1,42 @@
+#contact-us .img-container {
+    padding: 0 0 0 5%;
+}
+
+#contact-us h3 {
+    color:#2e83e4;
+    font-size: 25px;
+    font-family: 'Kaushan Script', cursive;
+    margin-bottom: 10px;
+}
+
+#contact-us h2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #2e83e4;
+    letter-spacing: 2px;
+    line-height: 1;
+    margin-top: 10px;
+}
+
+#contact-us h2 span {
+    font-size: 50px;
+}
+
+#contact-us p {
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    padding-right: 5%;
+}
+
+#contact-us a {
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(to right, #2e83e4 #2e83e4);
+    padding: 10px 30px;
+    font-size: 22px;
+    font-weight: 600;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgb(136, 129, 129);
+}

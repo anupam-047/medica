@@ -1,0 +1,42 @@
+#booking {
+    text-align: center;
+    height: max-content;
+    min-height: max-content;
+    display: block;
+    text-shadow: 0 0 20px black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+#booking-container {
+    padding: 60px 0 100px 0;
+    background: rgba(0, 0, 0, 0.5);
+    height: 400px;
+}
+
+#booking h3 {
+    color: #2e83e4;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 35px;
+    letter-spacing: 3px;
+}
+
+#booking h1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+
+#booking a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    background: linear-gradient(#227b97c7, #0dc6d9c9);
+    padding: 10px 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgb(36, 36, 36);
+}

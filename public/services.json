@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Intensive Care",
+        "price": 8000,
+        "description": "An intensive care unit (ICU), also known as an intensive therapy unit or intensive treatment unit (ITU) or critical care unit (CCU), is a special department...",
+        "time": 4.15,
+        "img": "/images/health-services/health-service-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pediatric Care",
+        "price": 1600,
+        "description": "Pediatrics is the specialty of medical science concerned with the physical, mental, and social health of children from birth to young adulthood...",
+        "time": 6.5,
+        "img": "/images/health-services/health-service-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Psychiatric Unit",
+        "price": 3700,
+        "description": "Psychiatric hospitals, also known as mental health units or behavioral health units, are hospitals or wards specializing in the treatment of mental...",
+        "time": 2.3,
+        "img": "/images/health-services/health-service-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Emergency Unit",
+        "price": 7500,
+        "description": "An emergency department, also known as an accident & emergency department, emergency room, emergency ward or casualty department, is a medical...",
+        "time": 2.15,
+        "img": "/images/health-services/health-service-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cardiology Department",
+        "price": 4000,
+        "description": "The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and ...",
+        "time": 2.45,
+        "img": "/images/health-services/health-service-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Ophthalmology Department",
+        "price": 12000,
+        "description": "Ophthalmology is a branch of medicine and surgery that deals with the diagnosis and treatment of disorders of the eye. An ophthalmologist is a physician...",
+        "time": 5.15,
+        "img": "/images/health-services/health-service-6.jpg"
+    }
+]
